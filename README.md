@@ -3,7 +3,7 @@
 *Alam Raza Butt*\
 ***Muhammad Alam Butt***\
 ~~Second Lab~~
->Alam Butt
+>My gmail Id is
 ```
-My name is Alam Raza
+alambutt107@gmail.com
 ```
