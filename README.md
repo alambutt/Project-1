@@ -1,4 +1,4 @@
-# Introduction to GitHub
+# project 1
 02	**Alam Butt**\
 03	*Alam Raza Butt*\
 04	***Muhammad Alam Butt***\
